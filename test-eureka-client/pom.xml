@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>smart-eureka-client</artifactId>
+    <artifactId>test-eureka-client</artifactId>
 
     <dependencies>
 

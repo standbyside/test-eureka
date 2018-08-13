@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>smart-example-hi</artifactId>
+    <artifactId>test-example-hi</artifactId>
 
     <dependencies>
 
